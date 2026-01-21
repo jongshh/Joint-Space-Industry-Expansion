@@ -75,6 +75,4 @@ If you encounter any bugs or issues, please leave a comment in the **Issues** ta
 
 ---
 ## ⚖️ License
-**Joint Space Industry Expansion (JSIE)** is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-You are free to share and adapt this mod for non-commercial purposes, as long as you credit the author (**Jongsh**) and distribute it under the same license.
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
