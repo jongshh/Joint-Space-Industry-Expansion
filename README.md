@@ -63,9 +63,6 @@ To run JSIE correctly, you **must** install the following mods and packs:
 
 > **Recommendation:** We highly recommend using **CKAN** to install Kerbal Konstructs to ensure all dependencies are handled automatically.
 
-## :package: Installation
-**Recommended:** We highly recommend using **CKAN** to install this mod and its dependencies.
-
 If installing manually:
 1. Ensure all dependent mods and packs are installed.
 2. Always follow the included instructions carefully.
