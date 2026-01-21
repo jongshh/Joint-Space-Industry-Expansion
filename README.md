@@ -59,7 +59,7 @@ Expand your horizons and launch your missions from entirely new locations.
 To run JSIE correctly, you **must** install the following mods and packs:
 
 * **Kerbal Konstructs** (and all its dependencies)
-* **Required KK Packs:** [Check this Sheet]((https://docs.google.com/spreadsheets/d/1VZ0i9FgXNZKLybHH4LQEu_6AzNUXhfGn1atKMdY7ZOI/edit?gid=321312601#gid=321312601))
+* **Required KK Packs:** [Check this Sheet](https://docs.google.com/spreadsheets/d/1VZ0i9FgXNZKLybHH4LQEu_6AzNUXhfGn1atKMdY7ZOI/edit?gid=321312601#gid=321312601)
 
 > **Recommendation:** We highly recommend using **CKAN** to install Kerbal Konstructs to ensure all dependencies are handled automatically.
 
